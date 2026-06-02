@@ -1,0 +1,15 @@
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\bin\Debug\net10.0\BankingApplication.Application.deps.json
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\bin\Debug\net10.0\BankingApplication.Application.dll
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\bin\Debug\net10.0\BankingApplication.Application.pdb
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\bin\Debug\net10.0\BankingApplication.Domain.dll
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\bin\Debug\net10.0\BankingApplication.Domain.pdb
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.csproj.AssemblyReference.cache
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.AssemblyInfoInputs.cache
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.AssemblyInfo.cs
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingA.E005A1A6.Up2Date
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.dll
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\refint\BankingApplication.Application.dll
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\BankingApplication.Application.pdb
+C:\Users\vraj.patel\source\repos\BankingApplication\BankingApplication.Application\obj\Debug\net10.0\ref\BankingApplication.Application.dll

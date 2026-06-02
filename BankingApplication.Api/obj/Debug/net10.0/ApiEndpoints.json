@@ -1,0 +1,114 @@
+[
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/Account",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.CreateAccountCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.CustomerController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.CreateCustomerCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.LoanController",
+    "Method": "ApplyLoan",
+    "RelativePath": "api/Loan/apply",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.ApplyLoanCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.TransactionController",
+    "Method": "Deposit",
+    "RelativePath": "api/Transaction/deposit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.DepositCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.TransactionController",
+    "Method": "History",
+    "RelativePath": "api/Transaction/history/{accountNo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "AccountNo",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.TransactionController",
+    "Method": "Transfer",
+    "RelativePath": "api/Transaction/transfer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.TransferCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BankingApplication.Api.Controllers.TransactionController",
+    "Method": "Withdraw",
+    "RelativePath": "api/Transaction/Withdraw",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "BankingApplication.Application.Command.WithdrawCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
