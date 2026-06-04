@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vraj.patel\\source\\repos\\BankingApplication\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {}
+    "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vraj.patel\\source\\repos\\BankingApplication\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {
+    "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vraj.patel\\source\\repos\\BankingApplication\\BankingApplication.Domain\\BankingApplication.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj",
         "projectName": "BankingApplication.Domain",
-        "projectPath": "C:\\Users\\vraj.patel\\source\\repos\\BankingApplication\\BankingApplication.Domain\\BankingApplication.Domain.csproj",
-        "packagesPath": "C:\\Users\\vraj.patel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vraj.patel\\source\\repos\\BankingApplication\\BankingApplication.Domain\\obj\\",
+        "projectPath": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj",
+        "packagesPath": "C:\\Users\\vrajh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\vraj.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vrajh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

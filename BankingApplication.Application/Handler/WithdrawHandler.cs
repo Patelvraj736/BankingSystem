@@ -27,6 +27,6 @@ public class WithdrawHandler(IUnitOfWork uow) : IRequestHandler<WithdrawCommand,
 
         await uow.SaveChangesAsync();
 
-        return request.Amount;
+        return account.Balance;
     }
 }
