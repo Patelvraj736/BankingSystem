@@ -497,23 +497,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vrajh\\.nuget\\packages\\": {},
+    "C:\\Users\\vraj.patel\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Application\\BankingApplication.Application.csproj",
+      "projectUniqueName": "C:\\Users\\vraj.patel\\source\\repos\\BankingSystem\\BankingApplication.Application\\BankingApplication.Application.csproj",
       "projectName": "BankingApplication.Application",
-      "projectPath": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Application\\BankingApplication.Application.csproj",
-      "packagesPath": "C:\\Users\\vrajh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Application\\obj\\",
+      "projectPath": "C:\\Users\\vraj.patel\\source\\repos\\BankingSystem\\BankingApplication.Application\\BankingApplication.Application.csproj",
+      "packagesPath": "C:\\Users\\vraj.patel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vraj.patel\\source\\repos\\BankingSystem\\BankingApplication.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\vrajh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vraj.patel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -529,8 +529,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {
-              "projectPath": "C:\\Users\\vrajh\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj"
+            "C:\\Users\\vraj.patel\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj": {
+              "projectPath": "C:\\Users\\vraj.patel\\source\\repos\\BankingSystem\\BankingApplication.Domain\\BankingApplication.Domain.csproj"
             }
           }
         }
@@ -545,7 +545,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.100"
+      "SdkAnalysisLevel": "10.0.200"
     },
     "frameworks": {
       "net10.0": {
@@ -580,7 +580,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

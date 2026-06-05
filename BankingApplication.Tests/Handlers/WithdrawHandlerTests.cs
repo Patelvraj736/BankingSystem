@@ -22,7 +22,6 @@ public class WithdrawHandlerTests
         _uowMock.Setup(x => x.Account).Returns(_accountRepoMock.Object);
         _uowMock.Setup(x => x.Transaction).Returns(_transactionRepoMock.Object);
 
-
         _handler = new WithdrawHandler(_uowMock.Object);
     }
 

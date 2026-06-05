@@ -21,3 +21,15 @@ C:\Users\vrajh\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\ne
 C:\Users\vrajh\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\refint\BankingApplication.Domain.dll
 C:\Users\vrajh\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.pdb
 C:\Users\vrajh\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\ref\BankingApplication.Domain.dll
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\bin\Debug\net10.0\BankingApplication.Domain.deps.json
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\bin\Debug\net10.0\BankingApplication.Domain.dll
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\bin\Debug\net10.0\BankingApplication.Domain.pdb
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.AssemblyInfo.cs
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.sourcelink.json
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.dll
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\refint\BankingApplication.Domain.dll
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\BankingApplication.Domain.pdb
+C:\Users\vraj.patel\source\repos\BankingSystem\BankingApplication.Domain\obj\Debug\net10.0\ref\BankingApplication.Domain.dll
